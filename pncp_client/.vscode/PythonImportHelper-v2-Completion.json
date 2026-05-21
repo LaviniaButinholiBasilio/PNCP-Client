@@ -1,0 +1,1119 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "statistics",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statistics",
+        "description": "statistics",
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "field_validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "retry",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "retry_if_exception_type",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "stop_after_attempt",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "wait_exponential",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "before_sleep_log",
+        "importPath": "tenacity",
+        "description": "tenacity",
+        "isExtraImport": true,
+        "detail": "tenacity",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_cnpj",
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_valor",
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_data",
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "truncar",
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "pytest_httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest_httpx",
+        "description": "pytest_httpx",
+        "detail": "pytest_httpx",
+        "documentation": {}
+    },
+    {
+        "label": "PNCPHttpClient",
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "isExtraImport": true,
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryCache",
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "isExtraImport": true,
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "isExtraImport": true,
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "Licitacao",
+        "importPath": "pncp_client.models",
+        "description": "pncp_client.models",
+        "isExtraImport": true,
+        "detail": "pncp_client.models",
+        "documentation": {}
+    },
+    {
+        "label": "ItemCompra",
+        "importPath": "pncp_client.models",
+        "description": "pncp_client.models",
+        "isExtraImport": true,
+        "detail": "pncp_client.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contrato",
+        "importPath": "pncp_client.models",
+        "description": "pncp_client.models",
+        "isExtraImport": true,
+        "detail": "pncp_client.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ata",
+        "importPath": "pncp_client.models",
+        "description": "pncp_client.models",
+        "isExtraImport": true,
+        "detail": "pncp_client.models",
+        "documentation": {}
+    },
+    {
+        "label": "PrecoItem",
+        "importPath": "pncp_client.models",
+        "description": "pncp_client.models",
+        "isExtraImport": true,
+        "detail": "pncp_client.models",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "PesquisaPrecoAPI",
+        "importPath": "pncp_client.api.pesquisa_preco",
+        "description": "pncp_client.api.pesquisa_preco",
+        "isExtraImport": true,
+        "detail": "pncp_client.api.pesquisa_preco",
+        "documentation": {}
+    },
+    {
+        "label": "PrecoItem",
+        "importPath": "pncp_client.models.preco",
+        "description": "pncp_client.models.preco",
+        "isExtraImport": true,
+        "detail": "pncp_client.models.preco",
+        "documentation": {}
+    },
+    {
+        "label": "limpar_cnpj",
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validar_cnpj",
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validar_data",
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validar_uf",
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "isExtraImport": true,
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "AtasAPI",
+        "kind": 6,
+        "importPath": "pncp_client.api.atas",
+        "description": "pncp_client.api.atas",
+        "peekOfCode": "class AtasAPI:\n    \"\"\"Acesso aos endpoints de atas de registro de preços.\"\"\"\n    def __init__(self, client: PNCPHttpClient) -> None:\n        self._client = client\n    def obter(self, cnpj: str, ano: int, sequencial: int) -> Ata:\n        \"\"\"\n        Retorna os detalhes de uma ata específica.\n        Args:\n            cnpj: CNPJ do órgão (somente números).\n            ano: Ano da ata.",
+        "detail": "pncp_client.api.atas",
+        "documentation": {}
+    },
+    {
+        "label": "ContratosAPI",
+        "kind": 6,
+        "importPath": "pncp_client.api.contratos",
+        "description": "pncp_client.api.contratos",
+        "peekOfCode": "class ContratosAPI:\n    \"\"\"Acesso aos endpoints de contratos da API PNCP.\"\"\"\n    def __init__(self, client: PNCPHttpClient) -> None:\n        self._client = client\n    def obter(self, cnpj: str, ano: int, sequencial: int) -> Contrato:\n        \"\"\"\n        Retorna os detalhes de um contrato específico.\n        Args:\n            cnpj: CNPJ do órgão (somente números).\n            ano: Ano do contrato.",
+        "detail": "pncp_client.api.contratos",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentosAPI",
+        "kind": 6,
+        "importPath": "pncp_client.api.documentos",
+        "description": "pncp_client.api.documentos",
+        "peekOfCode": "class DocumentosAPI:\n    \"\"\"Acesso e download de documentos de compras no PNCP.\"\"\"\n    def __init__(\n        self,\n        client: PNCPHttpClient,\n        diretorio_base: Optional[Path] = None,\n    ) -> None:\n        self._client = client\n        self.diretorio_base = diretorio_base or Config.DOWNLOAD_DIR\n        self.diretorio_base.mkdir(parents=True, exist_ok=True)",
+        "detail": "pncp_client.api.documentos",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "pncp_client.api.documentos",
+        "description": "pncp_client.api.documentos",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass DocumentosAPI:\n    \"\"\"Acesso e download de documentos de compras no PNCP.\"\"\"\n    def __init__(\n        self,\n        client: PNCPHttpClient,\n        diretorio_base: Optional[Path] = None,\n    ) -> None:\n        self._client = client\n        self.diretorio_base = diretorio_base or Config.DOWNLOAD_DIR",
+        "detail": "pncp_client.api.documentos",
+        "documentation": {}
+    },
+    {
+        "label": "LicitacoesAPI",
+        "kind": 6,
+        "importPath": "pncp_client.api.licitacoes",
+        "description": "pncp_client.api.licitacoes",
+        "peekOfCode": "class LicitacoesAPI:\n    \"\"\"Acesso aos endpoints de compras/licitações da API PNCP.\"\"\"\n    def __init__(self, client: PNCPHttpClient) -> None:\n        self._client = client\n    # ------------------------------------------------------------------\n    # Busca / listagem\n    # ------------------------------------------------------------------\n    def buscar(\n        self,\n        cnpj_orgao: Optional[str] = None,",
+        "detail": "pncp_client.api.licitacoes",
+        "documentation": {}
+    },
+    {
+        "label": "PesquisaPrecoAPI",
+        "kind": 6,
+        "importPath": "pncp_client.api.pesquisa_preco",
+        "description": "pncp_client.api.pesquisa_preco",
+        "peekOfCode": "class PesquisaPrecoAPI:\n    \"\"\"Acesso à API de pesquisa de preços do PNCP.\"\"\"\n    def __init__(self, client: PNCPHttpClient) -> None:\n        self._client = client\n    def pesquisar(\n        self,\n        descricao: str,\n        uf: Optional[str] = None,\n        codigo_item: Optional[str] = None,\n        pagina: int = 1,",
+        "detail": "pncp_client.api.pesquisa_preco",
+        "documentation": {}
+    },
+    {
+        "label": "Ata",
+        "kind": 6,
+        "importPath": "pncp_client.models.ata",
+        "description": "pncp_client.models.ata",
+        "peekOfCode": "class Ata(BaseModel):\n    \"\"\"Representa uma ata de registro de preços publicada no PNCP.\"\"\"\n    numero_controle_pncp: str = Field(..., alias=\"numeroControlePNCP\")\n    orgao_cnpj: str = Field(..., alias=\"orgaoEntidade\")\n    orgao_nome: str = Field(\"\", alias=\"unidadeOrgao\")\n    numero_ata: str = Field(\"\", alias=\"numeroAtaRegistroPreco\")\n    ano_ata: int = Field(..., alias=\"anoAta\")\n    sequencial_ata: int = Field(..., alias=\"sequencialAta\")\n    objeto_ata: str = Field(\"\", alias=\"objetoAta\")\n    valor_global: Optional[float] = Field(None, alias=\"valorGlobal\")",
+        "detail": "pncp_client.models.ata",
+        "documentation": {}
+    },
+    {
+        "label": "Contrato",
+        "kind": 6,
+        "importPath": "pncp_client.models.contrato",
+        "description": "pncp_client.models.contrato",
+        "peekOfCode": "class Contrato(BaseModel):\n    \"\"\"Representa um contrato celebrado e publicado no PNCP.\"\"\"\n    numero_controle_pncp: str = Field(..., alias=\"numeroControlePNCP\")\n    orgao_cnpj: str = Field(..., alias=\"orgaoEntidade\")\n    orgao_nome: str = Field(\"\", alias=\"unidadeOrgao\")\n    numero_contrato: str = Field(\"\", alias=\"numeroContratoEmpenho\")\n    ano_contrato: int = Field(..., alias=\"anoContrato\")\n    sequencial_contrato: int = Field(..., alias=\"sequencialContrato\")\n    objeto_contrato: str = Field(\"\", alias=\"objetoContrato\")\n    valor_inicial: Optional[float] = Field(None, alias=\"valorInicial\")",
+        "detail": "pncp_client.models.contrato",
+        "documentation": {}
+    },
+    {
+        "label": "Licitacao",
+        "kind": 6,
+        "importPath": "pncp_client.models.licitacao",
+        "description": "pncp_client.models.licitacao",
+        "peekOfCode": "class Licitacao(BaseModel):\n    \"\"\"Representa uma compra/licitação publicada no PNCP.\"\"\"\n    numero_controle_pncp: str = Field(..., description=\"Identificador único no PNCP\")\n    orgao_cnpj: str = Field(..., alias=\"orgaoEntidade\", description=\"CNPJ do órgão\")\n    orgao_nome: str = Field(..., alias=\"unidadeOrgao\", description=\"Nome do órgão\")\n    ano_compra: int = Field(..., alias=\"anoCompra\")\n    sequencial_compra: int = Field(..., alias=\"sequencialCompra\")\n    modalidade_nome: str = Field(default=\"\", alias=\"modalidadeNome\")\n    situacao_compra_nome: str = Field(default=\"\", alias=\"situacaoCompraNome\")\n    objeto_compra: str = Field(default=\"\", alias=\"objetoCompra\")",
+        "detail": "pncp_client.models.licitacao",
+        "documentation": {}
+    },
+    {
+        "label": "ItemCompra",
+        "kind": 6,
+        "importPath": "pncp_client.models.licitacao",
+        "description": "pncp_client.models.licitacao",
+        "peekOfCode": "class ItemCompra(BaseModel):\n    \"\"\"Representa um item de uma compra/licitação.\"\"\"\n    numero_item: int = Field(..., alias=\"numeroItem\")\n    descricao: str = Field(default=\"\", alias=\"descricao\")\n    quantidade: float = Field(default=0.0, alias=\"quantidade\")\n    unidade_medida: str = Field(default=\"\", alias=\"unidadeMedida\")\n    valor_unitario_estimado: Optional[float] = Field(None, alias=\"valorUnitarioEstimado\")\n    valor_total: Optional[float] = Field(None, alias=\"valorTotal\")\n    material_ou_servico: str = Field(\"\", alias=\"materialOuServico\")\n    codigo_item_catalogo: Optional[str] = Field(None, alias=\"codigoItemCatalogo\")",
+        "detail": "pncp_client.models.licitacao",
+        "documentation": {}
+    },
+    {
+        "label": "PrecoItem",
+        "kind": 6,
+        "importPath": "pncp_client.models.preco",
+        "description": "pncp_client.models.preco",
+        "peekOfCode": "class PrecoItem(BaseModel):\n    \"\"\"Representa um preço praticado em compra pública.\"\"\"\n    descricao: str = Field(\"\", alias=\"descricao\")\n    valor_unitario: float = Field(..., alias=\"valorUnitario\")\n    unidade_medida: str = Field(\"\", alias=\"unidadeMedida\")\n    data_referencia: Optional[datetime] = Field(None, alias=\"dataReferencia\")\n    orgao_cnpj: str = Field(\"\", alias=\"cnpjOrgao\")\n    orgao_nome: str = Field(\"\", alias=\"nomeOrgao\")\n    numero_licitacao: str = Field(\"\", alias=\"numeroLicitacao\")\n    municipio: Optional[str] = Field(None, alias=\"municipio\")",
+        "detail": "pncp_client.models.preco",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_cnpj",
+        "kind": 2,
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "peekOfCode": "def formatar_cnpj(cnpj: str) -> str:\n    \"\"\"\n    Formata um CNPJ no padrão XX.XXX.XXX/XXXX-XX.\n    Args:\n        cnpj: CNPJ com ou sem formatação.\n    Returns:\n        CNPJ formatado ou a string original se inválida.\n    \"\"\"\n    numeros = re.sub(r\"\\D\", \"\", cnpj)\n    if len(numeros) != 14:",
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_valor",
+        "kind": 2,
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "peekOfCode": "def formatar_valor(valor: Optional[float], simbolo: str = \"R$\") -> str:\n    \"\"\"\n    Formata um valor monetário no padrão brasileiro.\n    Args:\n        valor: Valor numérico.\n        simbolo: Símbolo da moeda (padrão ``\"R$\"``).\n    Returns:\n        String formatada como ``\"R$ 1.234.567,89\"`` ou ``\"-\"`` se None.\n    \"\"\"\n    if valor is None:",
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_data",
+        "kind": 2,
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "peekOfCode": "def formatar_data(data: Optional[datetime], fmt: str = \"%d/%m/%Y\") -> str:\n    \"\"\"\n    Formata uma data/datetime para exibição.\n    Args:\n        data: Objeto datetime (ou None).\n        fmt: Formato de saída (padrão ``\"%d/%m/%Y\"``).\n    Returns:\n        Data formatada ou ``\"-\"`` se None.\n    \"\"\"\n    if data is None:",
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_data_hora",
+        "kind": 2,
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "peekOfCode": "def formatar_data_hora(data: Optional[datetime]) -> str:\n    \"\"\"Formata data e hora no padrão brasileiro.\"\"\"\n    return formatar_data(data, \"%d/%m/%Y %H:%M\")\ndef truncar(texto: str, limite: int = 60, sufixo: str = \"...\") -> str:\n    \"\"\"\n    Trunca *texto* em *limite* caracteres, acrescentando *sufixo*.\n    Args:\n        texto: Texto a truncar.\n        limite: Comprimento máximo (incluindo sufixo).\n        sufixo: Sufixo para indicar truncamento.",
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "truncar",
+        "kind": 2,
+        "importPath": "pncp_client.utils.formatters",
+        "description": "pncp_client.utils.formatters",
+        "peekOfCode": "def truncar(texto: str, limite: int = 60, sufixo: str = \"...\") -> str:\n    \"\"\"\n    Trunca *texto* em *limite* caracteres, acrescentando *sufixo*.\n    Args:\n        texto: Texto a truncar.\n        limite: Comprimento máximo (incluindo sufixo).\n        sufixo: Sufixo para indicar truncamento.\n    Returns:\n        Texto possivelmente truncado.\n    \"\"\"",
+        "detail": "pncp_client.utils.formatters",
+        "documentation": {}
+    },
+    {
+        "label": "limpar_cnpj",
+        "kind": 2,
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "peekOfCode": "def limpar_cnpj(cnpj: str) -> str:\n    \"\"\"Remove pontuação de um CNPJ e retorna apenas os dígitos.\"\"\"\n    return re.sub(r\"\\D\", \"\", cnpj)\ndef validar_cnpj(cnpj: str) -> bool:\n    \"\"\"\n    Valida um CNPJ usando o algoritmo oficial da Receita Federal.\n    Args:\n        cnpj: CNPJ com ou sem formatação.\n    Returns:\n        ``True`` se o CNPJ for válido.",
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validar_cnpj",
+        "kind": 2,
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "peekOfCode": "def validar_cnpj(cnpj: str) -> bool:\n    \"\"\"\n    Valida um CNPJ usando o algoritmo oficial da Receita Federal.\n    Args:\n        cnpj: CNPJ com ou sem formatação.\n    Returns:\n        ``True`` se o CNPJ for válido.\n    \"\"\"\n    cnpj = limpar_cnpj(cnpj)\n    if len(cnpj) != 14 or cnpj == cnpj[0] * 14:",
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validar_data",
+        "kind": 2,
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "peekOfCode": "def validar_data(data: str, fmt: str = \"%Y-%m-%d\") -> bool:\n    \"\"\"\n    Valida se *data* está no formato esperado.\n    Args:\n        data: String de data.\n        fmt: Formato esperado (padrão ISO 8601).\n    Returns:\n        ``True`` se válida.\n    \"\"\"\n    try:",
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "validar_uf",
+        "kind": 2,
+        "importPath": "pncp_client.utils.validators",
+        "description": "pncp_client.utils.validators",
+        "peekOfCode": "def validar_uf(uf: str) -> bool:\n    \"\"\"Verifica se a UF informada é um estado brasileiro válido.\"\"\"\n    ufs_validas = {\n        \"AC\", \"AL\", \"AP\", \"AM\", \"BA\", \"CE\", \"DF\", \"ES\", \"GO\",\n        \"MA\", \"MT\", \"MS\", \"MG\", \"PA\", \"PB\", \"PR\", \"PE\", \"PI\",\n        \"RJ\", \"RN\", \"RS\", \"RO\", \"RR\", \"SC\", \"SP\", \"SE\", \"TO\",\n    }\n    return uf.upper() in ufs_validas",
+        "detail": "pncp_client.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "pncp_client.config",
+        "description": "pncp_client.config",
+        "peekOfCode": "class Config:\n    BASE_URL: str = os.getenv(\"PNCP_BASE_URL\", \"https://pncp.gov.br/api/pncp/v1\")\n    CONSULTA_URL: str = os.getenv(\"PNCP_CONSULTA_URL\", \"https://pncp.gov.br/api/consulta/v1\")\n    TIMEOUT: int = int(os.getenv(\"PNCP_TIMEOUT\", \"30\"))\n    RATE_LIMIT_DELAY: float = float(os.getenv(\"PNCP_RATE_LIMIT_DELAY\", \"0.5\"))\n    MAX_RETRIES: int = int(os.getenv(\"PNCP_MAX_RETRIES\", \"3\"))\n    DOWNLOAD_DIR: Path = Path(os.getenv(\"PNCP_DOWNLOAD_DIR\", \"./downloads\"))\n    DB_PATH: Path = Path(os.getenv(\"PNCP_DB_PATH\", \"./pncp.db\"))\n    CACHE_TTL: int = int(os.getenv(\"PNCP_CACHE_TTL\", \"3600\"))\n    # Cabeçalhos padrão para todas as requisições",
+        "detail": "pncp_client.config",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "kind": 6,
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "peekOfCode": "class RateLimiter:\n    \"\"\"Garante um intervalo mínimo entre requisições.\"\"\"\n    def __init__(self, delay: float = Config.RATE_LIMIT_DELAY):\n        self._delay = delay\n        self._last: float = 0.0\n    def wait(self) -> None:\n        elapsed = time.monotonic() - self._last\n        if elapsed < self._delay:\n            time.sleep(self._delay - elapsed)\n        self._last = time.monotonic()",
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryCache",
+        "kind": 6,
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "peekOfCode": "class InMemoryCache:\n    \"\"\"Cache simples em memória com TTL por entrada.\"\"\"\n    def __init__(self, ttl: int = Config.CACHE_TTL):\n        self._ttl = ttl\n        self._store: Dict[str, tuple[Any, float]] = {}\n    def _key(self, url: str, params: Optional[Dict] = None) -> str:\n        raw = url + json.dumps(params or {}, sort_keys=True)\n        return hashlib.sha256(raw.encode()).hexdigest()\n    def get(self, url: str, params: Optional[Dict] = None) -> Optional[Any]:\n        key = self._key(url, params)",
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "PNCPHttpClient",
+        "kind": 6,
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "peekOfCode": "class PNCPHttpClient:\n    \"\"\"\n    Cliente HTTP para a API do PNCP.\n    Funcionalidades:\n    - Rate limiting configurável\n    - Retry automático com back-off exponencial (via tenacity)\n    - Cache em memória com TTL\n    - Download de arquivos via streaming\n    \"\"\"\n    def __init__(",
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "pncp_client.http_client",
+        "description": "pncp_client.http_client",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass RateLimiter:\n    \"\"\"Garante um intervalo mínimo entre requisições.\"\"\"\n    def __init__(self, delay: float = Config.RATE_LIMIT_DELAY):\n        self._delay = delay\n        self._last: float = 0.0\n    def wait(self) -> None:\n        elapsed = time.monotonic() - self._last\n        if elapsed < self._delay:\n            time.sleep(self._delay - elapsed)",
+        "detail": "pncp_client.http_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestFormatarCnpj",
+        "kind": 6,
+        "importPath": "tests.unit.test_formatters",
+        "description": "tests.unit.test_formatters",
+        "peekOfCode": "class TestFormatarCnpj:\n    def test_cnpj_sem_formatacao(self):\n        assert formatar_cnpj(\"11222333000181\") == \"11.222.333/0001-81\"\n    def test_cnpj_ja_formatado(self):\n        assert formatar_cnpj(\"11.222.333/0001-81\") == \"11.222.333/0001-81\"\n    def test_cnpj_invalido_retorna_original(self):\n        assert formatar_cnpj(\"123\") == \"123\"\nclass TestFormatarValor:\n    def test_valor_positivo(self):\n        resultado = formatar_valor(1234567.89)",
+        "detail": "tests.unit.test_formatters",
+        "documentation": {}
+    },
+    {
+        "label": "TestFormatarValor",
+        "kind": 6,
+        "importPath": "tests.unit.test_formatters",
+        "description": "tests.unit.test_formatters",
+        "peekOfCode": "class TestFormatarValor:\n    def test_valor_positivo(self):\n        resultado = formatar_valor(1234567.89)\n        assert \"1.234.567\" in resultado\n        assert \"89\" in resultado\n    def test_valor_none(self):\n        assert formatar_valor(None) == \"-\"\n    def test_valor_negativo(self):\n        resultado = formatar_valor(-100.0)\n        assert \"-\" in resultado",
+        "detail": "tests.unit.test_formatters",
+        "documentation": {}
+    },
+    {
+        "label": "TestFormatarData",
+        "kind": 6,
+        "importPath": "tests.unit.test_formatters",
+        "description": "tests.unit.test_formatters",
+        "peekOfCode": "class TestFormatarData:\n    def test_data_valida(self):\n        dt = datetime(2026, 5, 20, 10, 30)\n        assert formatar_data(dt) == \"20/05/2026\"\n    def test_data_none(self):\n        assert formatar_data(None) == \"-\"\n    def test_formato_customizado(self):\n        dt = datetime(2026, 5, 20)\n        assert formatar_data(dt, \"%Y-%m-%d\") == \"2026-05-20\"\nclass TestTruncar:",
+        "detail": "tests.unit.test_formatters",
+        "documentation": {}
+    },
+    {
+        "label": "TestTruncar",
+        "kind": 6,
+        "importPath": "tests.unit.test_formatters",
+        "description": "tests.unit.test_formatters",
+        "peekOfCode": "class TestTruncar:\n    def test_texto_curto_nao_trunca(self):\n        assert truncar(\"abc\", limite=10) == \"abc\"\n    def test_texto_longo_trunca(self):\n        resultado = truncar(\"a\" * 100, limite=20)\n        assert len(resultado) <= 20\n        assert resultado.endswith(\"...\")\n    def test_limite_customizado(self):\n        resultado = truncar(\"abcdefgh\", limite=5, sufixo=\"…\")\n        assert len(resultado) <= 5",
+        "detail": "tests.unit.test_formatters",
+        "documentation": {}
+    },
+    {
+        "label": "TestInMemoryCache",
+        "kind": 6,
+        "importPath": "tests.unit.test_http_client",
+        "description": "tests.unit.test_http_client",
+        "peekOfCode": "class TestInMemoryCache:\n    def test_set_e_get(self):\n        cache = InMemoryCache(ttl=60)\n        cache.set(\"http://exemplo.com\", {\"q\": \"1\"}, {\"data\": [1, 2, 3]})\n        resultado = cache.get(\"http://exemplo.com\", {\"q\": \"1\"})\n        assert resultado == {\"data\": [1, 2, 3]}\n    def test_miss_retorna_none(self):\n        cache = InMemoryCache(ttl=60)\n        assert cache.get(\"http://nao-existe.com\") is None\n    def test_ttl_expirado(self):",
+        "detail": "tests.unit.test_http_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestRateLimiter",
+        "kind": 6,
+        "importPath": "tests.unit.test_http_client",
+        "description": "tests.unit.test_http_client",
+        "peekOfCode": "class TestRateLimiter:\n    def test_sem_delay_na_primeira_chamada(self):\n        rl = RateLimiter(delay=0.05)\n        inicio = time.monotonic()\n        rl.wait()\n        assert time.monotonic() - inicio < 0.05\n    def test_aplica_delay_na_segunda_chamada(self):\n        rl = RateLimiter(delay=0.1)\n        rl.wait()\n        inicio = time.monotonic()",
+        "detail": "tests.unit.test_http_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestPNCPHttpClientGet",
+        "kind": 6,
+        "importPath": "tests.unit.test_http_client",
+        "description": "tests.unit.test_http_client",
+        "peekOfCode": "class TestPNCPHttpClientGet:\n    def test_get_retorna_json(self, httpx_mock):\n        httpx_mock.add_response(\n            url=\"https://pncp.gov.br/api/pncp/v1/compras/proposta?pagina=1\",\n            json={\"data\": [{\"id\": 1}]},\n        )\n        client = PNCPHttpClient(use_cache=False)\n        resultado = client.get(\"/compras/proposta\", params={\"pagina\": 1})\n        assert resultado == {\"data\": [{\"id\": 1}]}\n        client.close()",
+        "detail": "tests.unit.test_http_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestLicitacao",
+        "kind": 6,
+        "importPath": "tests.unit.test_models",
+        "description": "tests.unit.test_models",
+        "peekOfCode": "class TestLicitacao:\n    def test_parse_payload_completo(self):\n        lic = Licitacao(**PAYLOAD_LICITACAO)\n        assert lic.ano_compra == 2026\n        assert lic.sequencial_compra == 42\n        assert lic.valor_total_estimado == 500000.00\n        assert lic.uf == \"SP\"\n    def test_extrai_cnpj_de_dict(self):\n        lic = Licitacao(**PAYLOAD_LICITACAO)\n        assert lic.orgao_cnpj == \"12345678000195\"",
+        "detail": "tests.unit.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "TestItemCompra",
+        "kind": 6,
+        "importPath": "tests.unit.test_models",
+        "description": "tests.unit.test_models",
+        "peekOfCode": "class TestItemCompra:\n    def test_parse_basico(self):\n        item = ItemCompra(**PAYLOAD_ITEM)\n        assert item.numero_item == 1\n        assert item.quantidade == 50.0\n        assert item.material_ou_servico == \"M\"\n    def test_valor_unitario_presente(self):\n        item = ItemCompra(**PAYLOAD_ITEM)\n        assert item.valor_unitario_estimado == 4500.00\nclass TestPrecoItem:",
+        "detail": "tests.unit.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "TestPrecoItem",
+        "kind": 6,
+        "importPath": "tests.unit.test_models",
+        "description": "tests.unit.test_models",
+        "peekOfCode": "class TestPrecoItem:\n    def test_parse_basico(self):\n        preco = PrecoItem(**PAYLOAD_PRECO)\n        assert preco.valor_unitario == 850.00\n        assert preco.uf == \"SP\"\n        assert preco.municipio == \"São Paulo\"",
+        "detail": "tests.unit.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "PAYLOAD_LICITACAO",
+        "kind": 5,
+        "importPath": "tests.unit.test_models",
+        "description": "tests.unit.test_models",
+        "peekOfCode": "PAYLOAD_LICITACAO = {\n    \"numero_controle_pncp\": \"12345678000195-1-000042/2026\",\n    \"orgaoEntidade\": {\"cnpj\": \"12345678000195\", \"razaoSocial\": \"Ministério X\"},\n    \"unidadeOrgao\": {\"nomeUnidade\": \"Secretaria Y\"},\n    \"anoCompra\": 2026,\n    \"sequencialCompra\": 42,\n    \"modalidadeNome\": \"Pregão Eletrônico\",\n    \"situacaoCompraNome\": \"Publicada\",\n    \"objetoCompra\": \"Aquisição de notebooks\",\n    \"valorTotalEstimado\": 500000.00,",
+        "detail": "tests.unit.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "PAYLOAD_ITEM",
+        "kind": 5,
+        "importPath": "tests.unit.test_models",
+        "description": "tests.unit.test_models",
+        "peekOfCode": "PAYLOAD_ITEM = {\n    \"numeroItem\": 1,\n    \"descricao\": \"Notebook Intel Core i5\",\n    \"quantidade\": 50.0,\n    \"unidadeMedida\": \"UN\",\n    \"valorUnitarioEstimado\": 4500.00,\n    \"valorTotal\": 225000.00,\n    \"materialOuServico\": \"M\",\n    \"codigoItemCatalogo\": \"2414.01\",\n}",
+        "detail": "tests.unit.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "PAYLOAD_PRECO",
+        "kind": 5,
+        "importPath": "tests.unit.test_models",
+        "description": "tests.unit.test_models",
+        "peekOfCode": "PAYLOAD_PRECO = {\n    \"descricao\": \"Cadeira ergonômica\",\n    \"valorUnitario\": 850.00,\n    \"unidadeMedida\": \"UN\",\n    \"dataReferencia\": \"2026-03-15T00:00:00\",\n    \"cnpjOrgao\": \"99887766000111\",\n    \"nomeOrgao\": \"Tribunal Z\",\n    \"numeroLicitacao\": \"99887766000111-1-000010/2026\",\n    \"municipio\": \"São Paulo\",\n    \"uf\": \"SP\",",
+        "detail": "tests.unit.test_models",
+        "documentation": {}
+    },
+    {
+        "label": "TestEstatisticas",
+        "kind": 6,
+        "importPath": "tests.unit.test_pesquisa_preco",
+        "description": "tests.unit.test_pesquisa_preco",
+        "peekOfCode": "class TestEstatisticas:\n    def setup_method(self):\n        mock_client = MagicMock()\n        self.api = PesquisaPrecoAPI(mock_client)\n    def test_lista_vazia(self):\n        stats = self.api.estatisticas([])\n        assert stats[\"total_amostras\"] == 0\n    def test_calcula_media(self):\n        precos = [_make_preco(v) for v in [100.0, 200.0, 300.0]]\n        stats = self.api.estatisticas(precos)",
+        "detail": "tests.unit.test_pesquisa_preco",
+        "documentation": {}
+    },
+    {
+        "label": "TestLimparCnpj",
+        "kind": 6,
+        "importPath": "tests.unit.test_validators",
+        "description": "tests.unit.test_validators",
+        "peekOfCode": "class TestLimparCnpj:\n    def test_remove_pontuacao(self):\n        assert limpar_cnpj(\"11.222.333/0001-81\") == \"11222333000181\"\n    def test_ja_limpo(self):\n        assert limpar_cnpj(\"11222333000181\") == \"11222333000181\"\nclass TestValidarCnpj:\n    # CNPJs válidos reais (fictícios mas com dígitos corretos)\n    def test_cnpj_valido_sem_formatacao(self):\n        assert validar_cnpj(\"11222333000181\") is True\n    def test_cnpj_valido_com_formatacao(self):",
+        "detail": "tests.unit.test_validators",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidarCnpj",
+        "kind": 6,
+        "importPath": "tests.unit.test_validators",
+        "description": "tests.unit.test_validators",
+        "peekOfCode": "class TestValidarCnpj:\n    # CNPJs válidos reais (fictícios mas com dígitos corretos)\n    def test_cnpj_valido_sem_formatacao(self):\n        assert validar_cnpj(\"11222333000181\") is True\n    def test_cnpj_valido_com_formatacao(self):\n        assert validar_cnpj(\"11.222.333/0001-81\") is True\n    def test_cnpj_invalido_digitos_errados(self):\n        assert validar_cnpj(\"11111111111111\") is False\n    def test_cnpj_curto(self):\n        assert validar_cnpj(\"1234\") is False",
+        "detail": "tests.unit.test_validators",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidarData",
+        "kind": 6,
+        "importPath": "tests.unit.test_validators",
+        "description": "tests.unit.test_validators",
+        "peekOfCode": "class TestValidarData:\n    def test_data_valida(self):\n        assert validar_data(\"2026-05-20\") is True\n    def test_data_invalida_formato(self):\n        assert validar_data(\"20/05/2026\") is False\n    def test_data_inexistente(self):\n        assert validar_data(\"2026-02-30\") is False\n    def test_formato_customizado(self):\n        assert validar_data(\"20/05/2026\", \"%d/%m/%Y\") is True\nclass TestValidarUf:",
+        "detail": "tests.unit.test_validators",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidarUf",
+        "kind": 6,
+        "importPath": "tests.unit.test_validators",
+        "description": "tests.unit.test_validators",
+        "peekOfCode": "class TestValidarUf:\n    def test_uf_valida(self):\n        assert validar_uf(\"SP\") is True\n        assert validar_uf(\"rj\") is True  # case insensitive\n    def test_uf_invalida(self):\n        assert validar_uf(\"XX\") is False\n        assert validar_uf(\"Brasil\") is False",
+        "detail": "tests.unit.test_validators",
+        "documentation": {}
+    }
+]
